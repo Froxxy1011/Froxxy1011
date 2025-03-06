@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Froxxy1011
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Froxxy1011
 - 🌱 I’m currently learning Python,C#,Lua
-- 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love linux
-- 🧑‍💻 Languages I know:Python,C#,Html,Css,
+- 🧑‍💻 Languages I know: Python,C#,Html,Css,
+- Sigma?: Yes
 
 <!---
 Froxxy1011/Froxxy1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
